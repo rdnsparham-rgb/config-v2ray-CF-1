@@ -9,3 +9,5 @@ CF-server
 https://raw.githubusercontent.com/rdnsparham-rgb/config-v2ray-CF-1/refs/heads/main/CF-1
 ```
 #### سپس روی تیک ✔️ کلیک کنید حالا به بخش home برگردید و روی CF-server کلیک کنی و سپس سه نقطه رو کلیک کنید و بروزرسانی گروه فعلی اشتراک بزنید و کانفیگ خود را انتخاب کنید و سپس به ان متصل شوید.
+# کانال تلگرام 
+[Configfars](https://t.me/configfars)
